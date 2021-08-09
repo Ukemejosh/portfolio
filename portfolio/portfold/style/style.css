@@ -1,0 +1,152 @@
+.main-body{
+    background-color:  #e5e5e5;
+    
+}
+
+.container{
+    width: 1400%;
+    height: 400%;
+    background-color:  white;
+}
+
+.body-container{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.row{
+    display: flex;
+}
+
+.row-second{
+    padding-left: 10%;
+    display: flex;
+}
+
+.container-fluid{
+    width: 800%;
+    height: 50px;
+    display: flex;
+    margin: 10px;
+    background-color: none;
+    position: relative;
+    z-index: 2;
+}
+
+
+
+.navbar{
+    justify-content: center;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.nav-item {
+    font-family: Heebo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: right;
+}
+
+.home-page {
+    display: flex;
+    height: 100%;
+    width: auto;
+    margin-top: 20px; 
+}
+
+.home-text{
+    width: 100%;
+    padding-left: 15%;
+
+}
+
+.button-one{
+    background-color: #FF6464;
+    font-style: normal;
+       
+}
+
+.p-text{
+font-family: Heebo;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+
+.picture-container{
+    width: 30%;
+    height: 20%;
+}
+
+.rounded-float-end{
+    border-radius: 280%;
+    width: 80%;
+    justify-self: center;
+    height: 630%;
+}
+
+.second-container{
+    width: 100%;
+    height: 200%;
+    background-color:  #EDF7FA;
+}
+
+
+.row-second{
+    display: flex;
+    background-color:#EDF7FA;
+    
+   
+}
+
+.recent-post{
+    padding: 1%;
+    margin: 1%;
+    background-color: white;
+    width: 50%;
+}
+
+.view-all{
+    padding: 1%;
+    margin: 1%;
+    background-color: white;
+}
+
+.recent-container{
+    display: flex;
+    padding: 2%;
+    margin: 1%;
+}
+
+.feature-container{
+    padding-left: 5%;
+   
+}
+
+.vibrant{
+    padding-left: 9%;
+}
+
+.days{
+    padding-left: 9%;
+    padding-top: 3%;
+}
+.feature-one{
+    padding: 4%;
+    
+}
+
+.design-one{
+    padding-left: 5px;
+}
